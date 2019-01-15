@@ -1,6 +1,9 @@
 # helloplus
 Projet helloplus (maven, apache-cli, apache-csv)
 
+## Home
+Arnaud GERARD licence GNU 3
+
 ## Fonctionnalités
 Il permet de :
 * lire un csv
@@ -11,5 +14,9 @@ Il permet de :
 * commons-cli
 * commons-csv
 
-## plugin
+## Plugin
 * appassembler
+
+## Installation
+Utilisateur de maven avec le pom.xml
+il faut faire un maven install
