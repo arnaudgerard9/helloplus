@@ -2,7 +2,8 @@
 Projet helloplus (maven, apache-cli, apache-csv)
 
 ## Home
-Arnaud GERARD licence GNU 3
+Arnaud GERARD
+licence GNU 3
 
 ## Fonctionnalités
 Il permet de :
