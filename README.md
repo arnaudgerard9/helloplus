@@ -18,6 +18,11 @@ Il permet de :
 ## Plugin
 * appassembler
 
+## Exemple
+$ ./app -i names.csv
+hello jean paul !
+hello rené hance !
+
 ## Installation
 Utilisateur de maven avec le pom.xml
 il faut faire un maven install
